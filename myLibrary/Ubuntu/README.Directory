@@ -1,0 +1,9 @@
+
+o Commands to change the group and user permissions on root directory
+    chown 
+    adduser
+    addgroup
+
+o ACLs FilePermissionsACLs
+    
+

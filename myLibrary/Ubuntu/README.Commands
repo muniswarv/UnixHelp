@@ -1,0 +1,77 @@
+
+
+Basic Commands
+  o apt-get  : Manage Softwares instalation and uninstalation
+  o sudo     : To effect as admin
+  o 
+
+
+git version control
+    http://git-scm.com/videos
+
+# apt-get packages for different tools
+        gnuplot       = gnuplot-x11
+        curl          = curl
+        perl doc      = perl-doc
+        perl debugger = libdevel-ptkdb-perl
+        gvim          = vim-gnome
+        vlc           = vlc browser-plugin-vlc
+
+    o tech utils for python
+        numpy      = python-numpy
+        scipy      = python-scipy
+        matplotlib = python-matplotlib
+        ipython    = ipython
+        notebook   = ipython-notebook
+        pandas     = python-pandas
+        sympy      = python-sympy
+        nose       = python-nose
+
+
+
+#Install Packages
+  o gvim
+    sudo apt-get install vim-gnome
+
+
+  o Perl
+    - CPAN
+        cpan
+        > Configure
+                > install Modules
+        
+    - Debugger
+            sudo apt-get install libdevel-ptkdb-perl
+
+    - Perl Doc
+            sudo apt-get install perl-doc
+
+ o scipy Module
+    http://www.scipy.org/
+    sudo apt-get install python-numpy python-scipy python-matplotlib
+    sudo apt-get install ipython ipython-notebook python-pandas python-sympy python-nose
+
+  o curl
+        sudo apt-get install curl
+    
+  o gnuplot 
+        sudo apt-get install gnuplot-x11
+
+o apt-get packages for different tools
+        gnuplot       = gnuplot-x11
+        curl          = curl
+        perl doc      = perl-doc
+        perl debugger = libdevel-ptkdb-perl
+        gvim          = vim-gnome
+
+    o tech utils for python
+        numpy      = python-numpy
+        scipy      = python-scipy
+        matplotlib = python-matplotlib
+        ipython    = ipython
+        notebook   = ipython-notebook
+        pandas     = python-pandas
+        sympy      = python-sympy
+        nose       = python-nose
+
+
